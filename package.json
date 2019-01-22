@@ -1,0 +1,22 @@
+{
+  "name": "playground-channgelog-generator",
+  "version": "0.0.1",
+  "description": "changelog related",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adamchenwei/playground-channgelog-generator.git"
+  },
+  "keywords": [
+    "changelog"
+  ],
+  "author": "adamchenwei@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamchenwei/playground-channgelog-generator/issues"
+  },
+  "homepage": "https://github.com/adamchenwei/playground-channgelog-generator#readme"
+}
