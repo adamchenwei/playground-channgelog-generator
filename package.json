@@ -4,6 +4,7 @@
   "description": "changelog related",
   "main": "index.js",
   "scripts": {
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/adamchenwei/playground-channgelog-generator/issues"
   },
-  "homepage": "https://github.com/adamchenwei/playground-channgelog-generator#readme"
+  "homepage": "https://github.com/adamchenwei/playground-channgelog-generator#readme",
+  "devDependencies": {
+    "standard-version": "^4.4.0"
+  }
 }
