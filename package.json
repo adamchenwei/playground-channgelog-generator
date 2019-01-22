@@ -1,6 +1,6 @@
 {
   "name": "playground-channgelog-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "changelog related",
   "main": "index.js",
   "scripts": {
