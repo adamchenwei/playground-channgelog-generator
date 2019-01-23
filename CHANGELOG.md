@@ -1,3 +1,21 @@
+## [0.1.2](https://github.com/adamchenwei/playground-channgelog-generator/compare/v0.1.0...v0.1.2) (2019-01-23)
+
+
+### Features
+
+* **changelog play:** tweak around a bit ([bc1b3ca](https://github.com/adamchenwei/playground-channgelog-generator/commit/bc1b3ca))
+
+
+
+## [0.1.1](https://github.com/adamchenwei/playground-channgelog-generator/compare/v0.1.0...v0.1.1) (2019-01-22)
+
+
+### Features
+
+* **changelog play:** tweak around a bit ([bc1b3ca](https://github.com/adamchenwei/playground-channgelog-generator/commit/bc1b3ca))
+
+
+
 ## [0.1.1](https://github.com/adamchenwei/playground-channgelog-generator/compare/v0.1.0...v0.1.1) (2019-01-22)
 
 
